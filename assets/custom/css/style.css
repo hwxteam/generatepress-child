@@ -1,0 +1,14 @@
+.container{
+	max-width:1110px !important
+}
+
+/* Footer css start */
+
+footer#custom_footer{
+	margin: 20px;
+    background-color: #191442 !important;
+    padding: 80px;
+    border-radius: 32px;
+}
+
+/* Footer css end */
